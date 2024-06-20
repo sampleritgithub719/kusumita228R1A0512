@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b1ebf86-322a-458b-8b2b-c874a47fd6a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cuBa4dF8GZiZ82fkjdIoDGWurF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Arithematic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Armstrongno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.AssertDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DEMO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FactorialModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greatest3nos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Greatestof2nos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical AND.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical NOT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Logical OR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MethodResolution.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TestModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XOR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.client.executor&quot;: &quot;Run&quot;,
+    &quot;Python.commandcopy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.common values bw arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert list to tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count lines in file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cpyonefiletoanotherfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.createfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dbconnector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dbm module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo(mysql).executor&quot;: &quot;Run&quot;,
+    &quot;Python.even number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial using persistence model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonocci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gcdofdivisors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_electricity_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hdw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.httpserverdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is sorted function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isduplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.leapyr_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list at run time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list using functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login pg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lwrorupr.executor&quot;: &quot;Run&quot;,
+    &quot;Python.marshal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.h5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multithreaddemo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.mysql.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nandhini.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odd_or_even.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.perfectno_or_not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pickle demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primenumber.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project -.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projecttt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raise exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.readmodefile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.regular expressions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove a word in string week4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shelve module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simpleinterest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqlite3demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string is palindrome or not.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.student_info.executor&quot;: &quot;Run&quot;,
+    &quot;Python.studentlogin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testdbm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testfact.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testmarshal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testshelve.executor&quot;: &quot;Run&quot;,
+    &quot;Python.threads-1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.threads.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triangle_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try&amp;catch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try&amp;except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unpickle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voting_eligibility.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w charcaters week-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.w2points.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week-4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bkusm/PycharmProjects/pythonProject8/.idea/Add a comma b&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8\.idea\Add a comma b" />
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8\.idea" />
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8\.venv" />
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8\.venv\Scripts" />
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8\.venv\Lib\site-packages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bkusm\PycharmProjects\pythonProject8" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="week-4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject8" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/Add a comma b" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Add a comma b/week-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.week-4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b1ebf86-322a-458b-8b2b-c874a47fd6a8" name="Changes" comment="" />
+      <created>1708951644490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708951644490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

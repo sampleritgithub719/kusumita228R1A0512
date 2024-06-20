@@ -1,0 +1,3 @@
+pythoon programmimg language
+java is a object oriented programming language
+c is a structure programming language
